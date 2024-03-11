@@ -12,4 +12,4 @@
  As the name indicates, this Jupyter notebook focuses on scraping a website, in this case a Belgian website focused on Buddhism, and on producing text analysis from this website. For the web scraping, I used BeautifulSoup, whereas the text analysis itself is inspired in the Voyant Tools. The script is written in a way that anyone can easily use it by making the pertinent substitutions.
 
  ## Neural Network Abecedarian
- This Jupyter notebook focuses on producing abecedarian poems (poems in which each verse begins with the subsequent letter in the alphabet) by creating a neural network.
+ This Jupyter notebook focuses on producing abecedarian poems (poems in which each verse begins with the subsequent letter in the alphabet) by creating a neural network with the help of the Markovify library. Three different poetry corpuses were used, all of which can be found in the neural_abecedarian folder.
