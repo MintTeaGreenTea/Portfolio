@@ -1,7 +1,9 @@
 # Portfolio
  This is my portfolio of projects I have worked on within the field of the Digital Humanities. As I work on new projects, I will upload more files to this repository in the hopes to both showcase my abilities and provide future researchers with useful tools for their work. 
+ 
  My bakground is in Literature and Religious Studies (with a focus on Buddhism), so it is likely that my work will mainly focus on the application of digital tools to these fields.
  However, I hope to create scripts that can be applied to a wide range of subjects.
+ 
  I am still in the process of learning programming, and some of the earlier projects may have a lot of redundancies; as I continue to learn, I will update the scripts.
 
  Without further ado, here is what you can currently find in this repository:
