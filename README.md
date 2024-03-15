@@ -16,3 +16,6 @@
 
 ## IMDB SQL Exploration
 Through a combination of MySQL, DataGrip, and a Jupyter notebook, a peer and I created an exploration of the IMDB database (up until 2008) of the gender division in film. In the imdb_sql folder you can find a ZIP file containing the IMDB database, which you can then load onto DataGrip and, by creating a connection with MySQL, query in your Jupyter notebook. We also created multiple visualizations of the data.
+
+## Queendom of Belgium WARC
+WARC file extracted from a website designed alongside 3 peers for the purpose of showcasing the current drag scene in Belgium. We aimed for a colorful, maximalist design for it and produced text, images, graphics, and videos for it. WARC files can be accessed in a [number of ways](https://guides.lib.vt.edu/webarchiving/openwarc).
