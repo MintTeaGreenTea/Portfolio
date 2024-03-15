@@ -13,3 +13,6 @@
 
  ## Neural Network Abecedarian
  This Jupyter notebook focuses on producing abecedarian poems (poems in which each verse begins with the subsequent letter in the alphabet) by creating a neural network with the help of the Markovify library. Three different poetry corpuses were used, all of which can be found in the neural_abecedarian folder.
+
+## IMDB SQL Exploration
+Through a combination of MySQL, DataGrip, and a Jupyter notebook, a peer and I created an exploration of the IMDB database (up until 2008) of the gender division in film. In the imdb_sql folder you can find a ZIP file containing the IMDB database, which you can then load onto DataGrip and, by creating a connection with MySQL, query in your Jupyter notebook. We also created multiple visualizations of the data.
